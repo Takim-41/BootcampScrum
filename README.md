@@ -22,7 +22,12 @@ Sensational Unit
 
 ## Ürün Özellikleri
 
-- 
+- İlanları kategorize etme
+-Üniversitelere göre ilanı kategorize etme.
+-Satıcıya mesaj gönderme.
+-Ürünü kaydetme/favorilere ekleme.
+
+
 
 ## Hedef Kitle
 
