@@ -35,7 +35,7 @@ Sensational Unit
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Miro Backlog Board](https://miro.com/app/board/uXjVO29dX5g=/)
 
 ---
 
