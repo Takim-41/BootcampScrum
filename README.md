@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-Takım X
+Sensational Unit 
 
 # Ürün İle İlgili Bilgiler
 
@@ -14,26 +14,19 @@ Takım X
 
 ## Ürün İsmi
 
---Movie App--
+--Öğrenciden--
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- Üniversite öğrencileri arasında ikinci el alış veriş.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- 
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Üniversite öğrencileri
 
 ## Product Backlog URL
 
