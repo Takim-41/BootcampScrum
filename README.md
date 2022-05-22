@@ -18,7 +18,7 @@ Sensational Unit
 
 ## Ürün Açıklaması
 
-- Üniversite öğrencileri arasında ikinci el alış veriş.
+- Üniversite öğrencileri arasında ikinci el alışveriş.
 
 ## Ürün Özellikleri
 
@@ -54,9 +54,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1vpKurKcegIiGGXKsX6FlRw-J7O_2xzegLibtv2aR1Yw/edit?usp=sharing)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/Takim-41/BootcampScrum/main/Sprint%201.1.png) 
-![Backlog 2](https://raw.githubusercontent.com/Takim-41/BootcampScrum/main/Sprint%201.2.png)
-![Backlog 3](https://raw.githubusercontent.com/Takim-41/BootcampScrum/main/Sprint%201.3.png)
+![Backlog 1.1](https://raw.githubusercontent.com/Takim-41/BootcampScrum/main/Sprint%201.1.png) 
+![Backlog 1.2](https://raw.githubusercontent.com/Takim-41/BootcampScrum/main/Sprint%201.2.png)
+![Backlog 1.3](https://raw.githubusercontent.com/Takim-41/BootcampScrum/main/Sprint%201.3.png)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:Bayram nedeni ile henüz ürün çalışmasına başlanamadı.
@@ -90,7 +90,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats]()
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]() 
+![Backlog 2.1](https://raw.githubusercontent.com/Takim-41/BootcampScrum/main/Sprint%202.1.png)
+![Backlog 2.2](https://raw.githubusercontent.com/Takim-41/BootcampScrum/main/Sprint%202.2.png)
+![Backlog 2.3](https://raw.githubusercontent.com/Takim-41/BootcampScrum/main/Sprint%202.3.png)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
