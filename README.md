@@ -54,7 +54,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1vpKurKcegIiGGXKsX6FlRw-J7O_2xzegLibtv2aR1Yw/edit?usp=sharing)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/Takim-41/BootcampScrum/main/Sprint%20Board.png) 
+![Backlog 1]() 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:Bayram nedeni ile henüz ürün çalışmasına başlanamadı.
@@ -75,6 +75,31 @@ Sprint Review katılımcıları: Aslı Fidan,Arda Pekardan,Ezgi Çetikaya,Mücah
 ---
 
 # Sprint 2
+- **Sprint Notları**:Sprint planlamasında uygulamanın ilk prototipinin tamamlanmasına karar verilmiştir. Proje yönetimi için Miro kullanılmaya devam edilmiştir. User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 80 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 270 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint de 100 puanlık görev tamamlanmıştır. İkinci sprint için 80 puana karşılık gelen görevler dizini ile devam edilmesine karar verildi. 
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats]()
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1]() 
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  
+
+- **Sprint Review**: Yapılan iş bölümü neticesinde uygulama için ürün sayfası, profil sayfası ve açılı  sayfası oluşturulmaya karar verilmiş ve bu doğrultuda developer ekibimiz ürünü geliştirmeye başlamıştır. İlk prototip ortaya çıkarılmıştır.
+Sprint Review katılımcıları: Aslı Fidan,Arda Pekardan,Ezgi Çetikaya,Mücahid Ahmed Yaman,Yusuf Başpınar
+
+- **Sprint Retrospective:**
+  - Tasarımı geliştirmek için araştırmalar yapılmasına karar verildi.
+  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı.
 
 
 ---
