@@ -95,7 +95,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Backlog 2.3](https://raw.githubusercontent.com/Takim-41/BootcampScrum/main/Sprint%202.3.png)
 
 
-- **Ürün Durumu**: Ekran görüntüleri:
+- **Ürün Durumu**: Ekran görüntüleri:![Ürün 1.1](https://raw.githubusercontent.com/Takim-41/BootcampScrum/main/product.png)
   
 
 - **Sprint Review**: Yapılan iş bölümü neticesinde uygulama için ürün sayfası, profil sayfası ve açılı  sayfası oluşturulmaya karar verilmiş ve bu doğrultuda developer ekibimiz ürünü geliştirmeye başlamıştır. İlk prototip ortaya çıkarılmıştır.
