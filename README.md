@@ -19,7 +19,7 @@ Sensational Unit
 ## Ürün Açıklaması
 
 - Öğrenciden uygulaması, öğrencilerin üniversite hayatları boyunca ihtiyaç duyabilecekleri ev eşyası, kitap, ders notu vb. tüm ihtiyaçlarını karşılamasına yardımcı olan pazaryeri uygulamasıdır. 
-- Öğrenciler ihtiyaçları doğrultusunda dilediği gibi alışveriş yapabileceği gibi aynı zamanda kullanmadıkları eşyalarını elden çıkarabilir.
+- Öğrenciler ihtiyaçları doğrultusunda dilediğince alışveriş yapabileceği gibi aynı zamanda kullanmadıkları eşyalarını elden çıkarabilir bu sayede gelir elde edebilirler.
 
 ## Ürün Özellikleri
 
