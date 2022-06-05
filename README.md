@@ -124,7 +124,7 @@ Sprint Review katılımcıları: Aslı Fidan,Arda Pekardan,Ezgi Çetikaya,Mücah
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1vpKurKcegIiGGXKsX6FlRw-J7O_2xzegLibtv2aR1Yw/edit?usp=sharing)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1sI7DVCOap0Y2MpRZPSP6GwVxz-SG6jLfPldBV4UXEyQ/edit?usp=sharing)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1.1](https://raw.githubusercontent.com/Takim-41/BootcampScrum/main/Sprint%203.1.png) 
