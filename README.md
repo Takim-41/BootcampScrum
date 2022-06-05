@@ -18,20 +18,22 @@ Sensational Unit
 
 ## Ürün Açıklaması
 
-- Üniversite öğrencileri arasında ikinci el alışveriş.
+- Öğrenciden uygulaması, öğrencilerin üniversite hayatları boyunca ihtiyaç duyabilecekleri ev eşyası, kitap, ders notu vb. tüm ihtiyaçlarını karşılamasına yardımcı olan pazaryeri uygulamasıdır. 
+- Öğrenciler ihtiyaçları doğrultusunda dilediği gibi alışveriş yapabileceği gibi aynı zamanda kullanmadıkları eşyalarını elden çıkarabilir.
 
 ## Ürün Özellikleri
 
-- İlanları kategorize etme
-- Üniversitelere göre ilanı kategorize etme.
-- Satıcıya mesaj gönderme.
-- Ürünü kaydetme/favorilere ekleme.
-
+- Öğrenciden sayesinde ilanları kategorize ederek üniversitenizdeki ilanlara kolaylıkla erişebileceksiniz.
+- Ürünleri kaydedebilecek favorilerinize ekleyebileceksiniz. 
+- Uygulamayı kullanırken hedeflediğiniz ürüne daha hızlı ulaşabilmek için, belirli değerlere göre filtreleme yapabilirsiniz.
 
 
 ## Hedef Kitle
 
-- Üniversite öğrencileri
+- İkinci el eşyalarını elden çıkarmak isteyen öğrenciler.
+- Ucuz fiyata ihtiyaçlarını karşılamak isteyen öğreniciler.
+- Ders notlarını satarak gelir elde etmek isteyen öğrenciler.
+
 
 ## Product Backlog URL
 
@@ -109,5 +111,34 @@ Sprint Review katılımcıları: Aslı Fidan,Arda Pekardan,Ezgi Çetikaya,Mücah
 ---
 
 # Sprint 3
+- **Sprint Notları**: Firebase Implementasyonu ve kontrolü yapılacaktır.
+- Uygulama çalışır hale getirilemeye ve ürünün ilk çıktısının alınmasına karar verilmiştir. 
+- Proje yönetimi için Miro kullanılmaya devam edilmiştir. User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+-User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
----
+- **Sprint içinde tamamlanması tahmin edilen puan**: 50 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 270 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint de 100 puanlık görev tamamlanmıştır. İkinci sprint için 80 puana karşılık gelen görevler dizini tamamlanmıştır. Üçüncü sprint de kalan 50 puanlık görev dizini tamamlanacaktır.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1vpKurKcegIiGGXKsX6FlRw-J7O_2xzegLibtv2aR1Yw/edit?usp=sharing)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1.1](https://raw.githubusercontent.com/Takim-41/BootcampScrum/main/Sprint%201.1.png) 
+![Backlog 1.2](https://raw.githubusercontent.com/Takim-41/BootcampScrum/main/Sprint%201.2.png)
+
+
+- **Ürün Durumu**: 
+  
+
+- **Sprint Review**: 
+Alınan kararlar:
+- 3 Sprint boyunca toplam 270 puanlık çaba belirlenmiş 230 puanlık görevler sonuca ulaştırılmış 40 puanlık görevler reddedilmiştir. Bootcamp süresi boyunca uygulama tamamlanmıştır. Ürün videosu hazır hale getirilip gönderime hazırlanacaktır.
+Sprint Review katılımcıları: Aslı Fidan,Arda Pekardan,Ezgi Çetikaya,Mücahid Ahmed Yaman,Yusuf Başpınar
+
+- **Sprint Retrospective:**
+  - Akademi bootcamp süreci sona ermesi ile beraber ekip üyeleri süreci değerlendirmiş ve birbirlerine geri bildirimler vermiştir. 
+
