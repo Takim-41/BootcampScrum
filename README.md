@@ -24,9 +24,9 @@ Sensational Unit
 - BM Sürdürülebilir kalkınma hedeflerinin 12. maddesi olan Sorumlu üretim ve tüketim uyarınca öğrencilerin kullandıkları eşyaların sürdürülebilir dayanışmaya katkı sağlaması amaçlanmaktadır.
 - BM Sürdürülebilir kalkınma hedeflerinin 4. maddesi Nitelikli Eğitim doğrultusunda öğrencilerin üniversite hayatları boyunca ihtiyaç duyacakları materyallere eşitlikçi bir biçimde ulaşabilmeleri hedeflenmiştir.
 
-- Aynı zamanda öğrenciler ihtiyaçları doğrultusunda bağış kampanyası açabilecek ve diğer kullanıcılardan destek olması için ihtiyaçlarını talep edebilecekler. Bir bağış kampanyasından farklı olarak öğrenciler para değil ihtiyaç duydukları ürünler için kampanya açacak ve hayırsever insanlar ellerinde bulunan eşyalarını, kitap, elektronik, vs şeyleri öğrencilere fonlayabilecek. 
+- Aynı zamanda ürün geliştirildikten sonra öğrenciler ihtiyaçları doğrultusunda bağış kampanyası açabilecek ve diğer kullanıcılardan destek olması için ihtiyaçlarını talep edebilecekler. Bir bağış kampanyasından farklı olarak öğrenciler para değil ihtiyaç duydukları ürünler için kampanya açacak ve hayırsever insanlar ellerinde bulunan eşyalarını, kitap, elektronik, vs şeyleri öğrencilere fonlayabilecek. 
 
-- Gelir modelimiz, ilk ilan ücretsiz verildikten sonra diğer ilanlar için, satıcıdan ilan başına belirli bir ücret talep edilecektir.
+- Gelir modelimiz, ilk ilan ücretsiz verildikten sonra diğer ilanlar için, satıcıdan ilan başına belirli bir ücret talep edilecektir. Ürün listeleme sayfalarında reklamlara yer verilecektir.
 
 
 ## Ürün Özellikleri
