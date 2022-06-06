@@ -36,7 +36,6 @@ Sensational Unit
 - Sadece öğrenciler satış yapabilmesi için öğrenci mail adreslerinin konrtolü sağlanacaktır.
 - Uygulamayı kullanırken hedeflediğiniz ürüne daha hızlı ulaşabilmek için, belirli değerlere göre filtreleme yapabilirsiniz.
 - Kullancılar satın almak istedikleri ürün hakkında satıcıya soru sorabilecekleri mesaj bölümü eklenecektir.
-- 
 
 
 ## Hedef Kitle
