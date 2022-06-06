@@ -14,7 +14,7 @@ Sensational Unit
 
 ## Ürün İsmi
 
-<h3> ÖğrenciDen </h3>
+<h3> Öğrenciden </h3>
 
 ## Ürün Açıklaması
 
