@@ -6,7 +6,7 @@ Sensational Unit
 
 ## Takım Elemanları
 
-- Aslı Fidan: Product Owner
+- Aslıhan Fidan: Product Owner
 - Mücahid Ahmed Yaman: Scrum Master
 - Arda Pekardan: Team Member/Developer
 - Ezgi Çetikaya: Team Member/Developer
@@ -18,9 +18,16 @@ Sensational Unit
 
 ## Ürün Açıklaması
 
-- Öğrenciden uygulaması, öğrencilerin üniversite hayatları boyunca ihtiyaç duyabilecekleri ev eşyası, kitap, ders notu, elektronik cihaz vb. tüm ihtiyaçlarını karşılamasına yardımcı olan pazaryeri uygulamasıdır. 
-- Öğrenciler ihtiyaçları doğrultusunda dilediğince alışveriş yapabileceği gibi aynı zamanda kullanmadıkları eşyalarını elden çıkarabilir bu sayede gelir elde edebilirler.
-- 
+- Öğrenciden uygulaması, öğrencilerin üniversite hayatları boyunca ihtiyaç duyabilecekleri ev eşyası, kitap, ders notu, elektronik cihaz vb. tüm ihtiyaçlarını karşılamasına yardımcı olan pazaryeri uygulamasıdır. Bu uygulama, durumu olmayan ve üniversite hayatı boyunca zorunlu olarak kullanması gereken materyallere sahip olmak isteyen öğrenciler ile üniversite mezuniyeti sonrası kullanmayacağı eşyalarını elinden çıkartmak isteyen öğrenciler için tasarlanmıştır. Uygulamada üniversite okurken kullanılan, pek çok farklı kategoride ürün bulunmaktadır. 
+- Öğrencilerin üniversite yaşamlarını ekonomik açıdan daha kolay hale getirilmesi amaçlanmıştır. Uygulamanın öğrenciler arası dayanışmayı desteklemesi için alıcı ve satıcılarının tamamı öğrencilerden oluşacaktır. Bunun kontrolü öğrenci mail adresi ile uygulamaya giriş zorunluluğu sağlanılarak yapılacaktır.
+
+- BM Sürdürülebilir kalkınma hedeflerinin 12. maddesi olan Sorumlu üretim ve tüketim uyarınca öğrencilerin kullandıkları eşyaların sürdürülebilir dayanışmaya katkı sağlaması amaçlanmaktadır.
+- BM Sürdürülebilir kalkınma hedeflerinin 4. maddesi Nitelikli Eğitim doğrultusunda öğrencilerin üniversite hayatları boyunca ihtiyaç duyacakları materyallere eşitlikçi bir biçimde ulaşabilmeleri.
+
+- Aynı zamanda öğrenciler ihtiyaçları doğrultusunda bağış kampanyası açabilecek ve diğer kullanıcılardan destek olması için ihtiyaçlarını talep edebilecekler. Bir bağış kampanyasından farklı olarak öğrenciler para değil ihtiyaç duydukları ürünler için kampanya açacak ve hayırsever insanlar ellerinde bulunan eşyalarını, kitap, elektronik, vs şeyleri öğrencilere fonlayabilecek. 
+
+- Gelir modelimiz, ilk ilan ücretsiz verildikten sonra diğer ilanlar için, satıcıdan ilan başına belirli bir ücret talep edilecektir.
+
 
 ## Ürün Özellikleri
 
