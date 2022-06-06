@@ -35,7 +35,7 @@ Sensational Unit
 - Ürünleri kaydedebilecek, favorilerinize ekleyebileceksiniz. 
 - Sadece öğrenciler satış yapabilmesi için öğrenci mail adreslerinin konrtolü sağlanacaktır.
 
-**Eklenecek Özellikler**
+<h3>**Eklenecek Özellikler**</h3>
 - Uygulamayı kullanırken hedeflediğiniz ürüne daha hızlı ulaşabilmek için, belirli değerlere göre filtreleme yapabilirsiniz.
 - Kullancılar satın almak istedikleri ürün hakkında satıcıya soru sorabilecekleri mesaj bölümü eklenecektir.
 
