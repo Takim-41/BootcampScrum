@@ -22,7 +22,7 @@ Sensational Unit
 - Öğrencilerin üniversite yaşamlarını ekonomik açıdan daha kolay hale getirilmesi amaçlanmıştır. Uygulamanın öğrenciler arası dayanışmayı desteklemesi için alıcı ve satıcılarının tamamı öğrencilerden oluşacaktır. Bunun kontrolü öğrenci mail adresi ile uygulamaya giriş zorunluluğu sağlanılarak yapılacaktır.
 
 - BM Sürdürülebilir kalkınma hedeflerinin 12. maddesi olan Sorumlu üretim ve tüketim uyarınca öğrencilerin kullandıkları eşyaların sürdürülebilir dayanışmaya katkı sağlaması amaçlanmaktadır.
-- BM Sürdürülebilir kalkınma hedeflerinin 4. maddesi Nitelikli Eğitim doğrultusunda öğrencilerin üniversite hayatları boyunca ihtiyaç duyacakları materyallere eşitlikçi bir biçimde ulaşabilmeleri.
+- BM Sürdürülebilir kalkınma hedeflerinin 4. maddesi Nitelikli Eğitim doğrultusunda öğrencilerin üniversite hayatları boyunca ihtiyaç duyacakları materyallere eşitlikçi bir biçimde ulaşabilmeleri hedeflenmiştir.
 
 - Aynı zamanda öğrenciler ihtiyaçları doğrultusunda bağış kampanyası açabilecek ve diğer kullanıcılardan destek olması için ihtiyaçlarını talep edebilecekler. Bir bağış kampanyasından farklı olarak öğrenciler para değil ihtiyaç duydukları ürünler için kampanya açacak ve hayırsever insanlar ellerinde bulunan eşyalarını, kitap, elektronik, vs şeyleri öğrencilere fonlayabilecek. 
 
