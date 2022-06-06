@@ -18,14 +18,18 @@ Sensational Unit
 
 ## Ürün Açıklaması
 
-- Öğrenciden uygulaması, öğrencilerin üniversite hayatları boyunca ihtiyaç duyabilecekleri ev eşyası, kitap, ders notu vb. tüm ihtiyaçlarını karşılamasına yardımcı olan pazaryeri uygulamasıdır. 
+- Öğrenciden uygulaması, öğrencilerin üniversite hayatları boyunca ihtiyaç duyabilecekleri ev eşyası, kitap, ders notu, elektronik cihaz vb. tüm ihtiyaçlarını karşılamasına yardımcı olan pazaryeri uygulamasıdır. 
 - Öğrenciler ihtiyaçları doğrultusunda dilediğince alışveriş yapabileceği gibi aynı zamanda kullanmadıkları eşyalarını elden çıkarabilir bu sayede gelir elde edebilirler.
+- 
 
 ## Ürün Özellikleri
 
-- Öğrenciden sayesinde ilanları kategorize ederek üniversitenizdeki ilanlara kolaylıkla erişebileceksiniz.
-- Ürünleri kaydedebilecek favorilerinize ekleyebileceksiniz. 
+- Öğrenciden uygulaması sayesinde ilanları kategorize ederek üniversitenizdeki ürün ilanlarına kolaylıkla erişebileceksiniz.
+- Ürünleri kaydedebilecek, favorilerinize ekleyebileceksiniz. 
+- Sadece öğrenciler satış yapabilmesi için öğrenci mail adreslerinin konrtolü sağlanacaktır.
 - Uygulamayı kullanırken hedeflediğiniz ürüne daha hızlı ulaşabilmek için, belirli değerlere göre filtreleme yapabilirsiniz.
+- Kullancılar satın almak istedikleri ürün hakkında satıcıya soru sorabilecekleri mesaj bölümü eklenecektir.
+- 
 
 
 ## Hedef Kitle
