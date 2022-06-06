@@ -34,7 +34,8 @@ Sensational Unit
 - Öğrenciden uygulaması sayesinde ilanları kategorize ederek üniversitenizdeki ürün ilanlarına kolaylıkla erişebileceksiniz.
 - Ürünleri kaydedebilecek, favorilerinize ekleyebileceksiniz. 
 - Sadece öğrenciler satış yapabilmesi için öğrenci mail adreslerinin konrtolü sağlanacaktır.
-- **Eklenecek Özellikler**
+
+**Eklenecek Özellikler**
 - Uygulamayı kullanırken hedeflediğiniz ürüne daha hızlı ulaşabilmek için, belirli değerlere göre filtreleme yapabilirsiniz.
 - Kullancılar satın almak istedikleri ürün hakkında satıcıya soru sorabilecekleri mesaj bölümü eklenecektir.
 
